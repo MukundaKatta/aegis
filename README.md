@@ -1,6 +1,6 @@
 # aegis — Privacy-Preserving AI. Privacy-preserving AI framework
 
-Privacy-Preserving AI. Privacy-preserving AI framework. aegis gives you a focused, inspectable implementation of that idea.
+Privacy-Preserving AI. Privacy-preserving AI framework.
 
 ## Why aegis
 
